@@ -1,5 +1,7 @@
 ## **Fast: Introduction Notebook**
-- The [**Introduction**](https://github.com/ThinamXx/Fastai/blob/main/1.%20Introduction/Introduction.ipynb) notebook is a comprehensive notebook as it contains a list of projects such as **Cat and Dog Classification**, **Semantic Segmentation**, **Sentiment Classification**, **Tabular Classification** and **Recommendation System**.
+
+The [**Introduction**](https://github.com/ThinamXx/Fastai/blob/main/1.%20Introduction/Introduction.ipynb) notebook is a comprehensive notebook as it contains a list of projects such as **Cat and Dog Classification**, **Semantic Segmentation**, **Sentiment Classification**, **Tabular Classification** and **Recommendation System**.
+
 
 **1. Cat and Dog Classification**
 - I will download and extract a dataset called the Oxford-IIIT Pet Dataset that contains 7349 images of cats and dogs from 37 breeds from the fast.ai datasets collection to the GPU server. I will use pretrained model that has already been trained on 1.3 million images. The pretrained model will be fine tuned using the latest advances in transfer learning to create a model that is specially customized for recognizing dogs and cats. I have presented the implementation of Cat and Dog Classification using Fastai here in the snapshot.
