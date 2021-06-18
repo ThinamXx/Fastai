@@ -1,4 +1,4 @@
-## **Fastai: Introduction Notebook**
+## **Fastai : Introduction Notebook**
 
 The [**Introduction**](https://github.com/ThinamXx/Fastai/blob/main/1.%20Introduction/Introduction.ipynb) notebook is a comprehensive notebook as it contains a list of projects such as **Cat and Dog Classification**, **Semantic Segmentation**, **Sentiment Classification**, **Tabular Classification** and **Recommendation System**.
 
