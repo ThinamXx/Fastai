@@ -26,3 +26,8 @@ The [**DigitClassifier**](https://github.com/ThinamXx/Fastai/blob/main/3.%20Trai
   - Step 7: Stop
  
  ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20201.PNG)
+
+**Accuracy and Loss Function**
+- The key difference between metric such as accuracy and loss function is that the loss is to drive automated learning and the metric is to drive human understanding. The loss must be a function with meaningful derivative and metrics focuses on performance of the model. The function weights\*pixels is not flexible. I will initialize a random number to intercept as well. In Neural Networks the equation y=w\*x+b, w is called the weights and the b is called the bias. Together the weights and bias make up the parameters. The Sigmoid function always outputs a number between 0 and 1. I have presented the implementation of Loss Function and Sigmoid using Fastai and PyTorch here in the snapshot.
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20203.PNG)
