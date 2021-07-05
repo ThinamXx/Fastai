@@ -9,3 +9,6 @@ The repository contains a list of the projects which I have worked on while read
 
 [**2. MODEL PRODUCTION**](https://github.com/ThinamXx/Fastai/tree/main/2.%20Model%20Production)
 - The **BearDetector notebook** contains all the dependencies for a complete Image Classification project.
+
+[**3. TRAINING A CLASSIFIER**](https://github.com/ThinamXx/Fastai/tree/main/3.%20Training%20a%20Classifier)
+- The **DigitClassifier** notebook contains all the dependencies required for Image Classification project from scratch.
