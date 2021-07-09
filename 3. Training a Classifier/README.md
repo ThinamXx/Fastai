@@ -2,6 +2,9 @@
 
 The [**DigitClassifier**](https://github.com/ThinamXx/Fastai/blob/main/3.%20Training%20a%20Classifier/DigitClassifier.ipynb) notebook contains all the dependencies required for **Image Classification** project from scratch.  
 
+**Note:**
+- 📑[**Digit Classifier**](https://nbviewer.jupyter.org/github/ThinamXx/Fastai/blob/main/3.%20Training%20a%20Classifier/DigitClassifier.ipynb)
+
 **Getting the Data**
 - I will download a sample of MNIST.
 
