@@ -15,3 +15,6 @@ The repository contains a list of the projects which I have worked on while read
 
 [**4. IMAGE CLASSIFICATION**](https://github.com/ThinamXx/Fastai/tree/main/4.%20Image%20Classification)
 - The **Image Classification** notebook contains all the dependencies for Image Classification such as getting image data ready for modeling i.e presizing and data block summary and for fitting the model i.e learning rate finder, unfreezing, discriminative learning rates, setting the number of epochs and using deeper architectures. It has explanations of cross entropy loss function as well.
+
+[**5. MULTILABEL CLASSIFICATION AND REGRESSION**](https://github.com/ThinamXx/Fastai/tree/main/5.%20MultilabelClassification%20Regression) 
+- The **Multilabel Classification** notebook contains all the dependencies required to understand **Multilabel Classification**. It contains the explanations of initializing **DataBlock** and **DataLoaders**. The **Regression** notebook contains all the dependencies required to understand **Image Regression**.
