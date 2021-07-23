@@ -19,6 +19,3 @@ The [**Collaborative Filtering**](https://github.com/ThinamXx/Fastai/blob/main/7
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20221a.PNG)
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20221b.PNG)
 
-**Deep Learning and Collaborative Filtering**
-
-![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20223.PNG)
