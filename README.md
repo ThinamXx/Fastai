@@ -18,3 +18,6 @@ The repository contains a list of the projects which I have worked on while read
 
 [**5. MULTILABEL CLASSIFICATION AND REGRESSION**](https://github.com/ThinamXx/Fastai/tree/main/5.%20MultilabelClassification%20Regression) 
 - The **Multilabel Classification** notebook contains all the dependencies required to understand **Multilabel Classification**. It contains the explanations of initializing **DataBlock** and **DataLoaders**. The **Regression** notebook contains all the dependencies required to understand **Image Regression**.
+
+[**6. COLLABORATIVE FILTERING**](https://github.com/ThinamXx/Fastai/tree/main/7.%20Collaborative%20Filtering)
+- The **Collaborative Filtering** notebook contains all the dependencies required to build a **Recommendation System**. It presents how gradient descent can learn intrinsic factors or biases about items from a history of ratings which then gives information about the data. 
