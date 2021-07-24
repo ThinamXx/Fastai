@@ -1,0 +1,6 @@
+fastbook
+kaggle
+pandas
+sklearn
+fastai.tabular.all
+fastai.collab
