@@ -19,5 +19,11 @@ The repository contains a list of the projects which I have worked on while read
 [**5. MULTILABEL CLASSIFICATION AND REGRESSION**](https://github.com/ThinamXx/Fastai/tree/main/5.%20MultilabelClassification%20Regression) 
 - The **Multilabel Classification** notebook contains all the dependencies required to understand **Multilabel Classification**. It contains the explanations of initializing **DataBlock** and **DataLoaders**. The **Regression** notebook contains all the dependencies required to understand **Image Regression**.
 
-[**6. COLLABORATIVE FILTERING**](https://github.com/ThinamXx/Fastai/tree/main/7.%20Collaborative%20Filtering)
+[**6. ADVANCED CLASSIFICATION**](https://github.com/ThinamXx/Fastai/tree/main/6.%20Advanced%20Classification)
+- The **Imagenette Classification** notebook contains all the dependencies required to train a state of art machine learning model in computer vision whether from scratch or using transfer learning. It contains explanations and implementation of **Normalization, Progressive Resizing, Test Time Augmentation, Mixup Augmentation and Label Smoothing**.
+
+[**7. COLLABORATIVE FILTERING**](https://github.com/ThinamXx/Fastai/tree/main/7.%20Collaborative%20Filtering)
 - The **Collaborative Filtering** notebook contains all the dependencies required to build a **Recommendation System**. It presents how gradient descent can learn intrinsic factors or biases about items from a history of ratings which then gives information about the data. 
+
+[**8. TABULAR MODELING**](https://github.com/ThinamXx/Fastai/tree/main/8.%20Tabular%20Modeling)
+- The **Tabular Model** notebook contains all the dependencies required for Tabular Modeling. It presents the detailed explanations of two approaches to **Tabular Modeling: Decision Tree Ensembles and Neural Networks**.
