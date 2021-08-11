@@ -1,4 +1,5 @@
 fastbook
 fastai
 fastai.text
+fastai.vision
 ipython
