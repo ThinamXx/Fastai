@@ -30,3 +30,6 @@ The repository contains a list of the projects which I have worked on while read
 
 [**9. NATURAL LANGUAGE PROCESSING**](https://github.com/ThinamXx/Fastai/tree/main/9.%20Natural%20Language%20Processing)
 - The **NLP** notebook contains all the dependencies required build Language Model that can generate texts and a Classifier Model that determines whether a review is positive or negative. It presents the state of art Classifier Model which is build using a pretrained language model and fine tuned it to the corpus of task. Then the Encoder model is used for classification.
+
+[**10. DATA MUNGING**](https://github.com/ThinamXx/Fastai/tree/main/10.%20Data%20Munging)
+- The **DataMunging** notebook contains all the dependencies required to implement mid level API of Fast.ai in Natural Language Processing and Computer Vision which provides greater flexibility to apply transformations on data items.
