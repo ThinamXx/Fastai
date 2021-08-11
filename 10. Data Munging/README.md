@@ -2,6 +2,9 @@
 
 The [**DataMunging**](https://github.com/ThinamXx/Fastai/blob/main/10.%20Data%20Munging/DataMunging.ipynb) notebook contains all the dependencies required to implement mid level API of **Fast.ai** in **Natural Language Processing** and **Computer Vision** which provides greater flexibility to apply transformations on data items. 
 
+**Note:**
+  - 📑[**Data Munging**](https://nbviewer.jupyter.org/github/ThinamXx/Fastai/blob/main/10.%20Data%20Munging/DataMunging.ipynb)
+
 **IMDB Dataset:**
 - I have presented the implementation of Creating Data Loaders, Tokenization and Numericalization using Fastai and PyTorch here in the snapshot.
 
