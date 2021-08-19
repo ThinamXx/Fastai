@@ -33,3 +33,6 @@ The repository contains a list of the projects which I have worked on while read
 
 [**10. DATA MUNGING**](https://github.com/ThinamXx/Fastai/tree/main/10.%20Data%20Munging)
 - The **DataMunging** notebook contains all the dependencies required to implement mid level API of Fast.ai in Natural Language Processing and Computer Vision which provides greater flexibility to apply transformations on data items.
+
+[**11. LANGUAGE MODEL FROM SCRATCH**](https://github.com/ThinamXx/Fastai/tree/main/11.%20Language%20Model)
+- The **LanguageModel** notebook contains all the dependencies that is inside AWD-LSTM architecture for Text Classification. It presents the implementation of Language Model using simple Linear Model, Recurrent Neural Network, Long Short Term Memory, Dropout Regularization and Activation Regularization.
