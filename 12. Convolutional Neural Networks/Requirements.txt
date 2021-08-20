@@ -1,0 +1,4 @@
+fastbook
+fastai
+fastai.vision
+ipython
