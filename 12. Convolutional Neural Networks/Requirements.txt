@@ -2,3 +2,4 @@ fastbook
 fastai
 fastai.vision
 ipython
+fastai.callback
