@@ -36,3 +36,6 @@ The repository contains a list of the projects which I have worked on while read
 
 [**11. LANGUAGE MODEL FROM SCRATCH**](https://github.com/ThinamXx/Fastai/tree/main/11.%20Language%20Model)
 - The **LanguageModel** notebook contains all the dependencies that is inside AWD-LSTM architecture for Text Classification. It presents the implementation of Language Model using simple Linear Model, Recurrent Neural Network, Long Short Term Memory, Dropout Regularization and Activation Regularization.
+
+[**12. CONVOLUTIONAL NEURAL NETWORK**](https://github.com/ThinamXx/Fastai/tree/main/12.%20Convolutional%20Neural%20Networks)
+- The **CNN** notebook contains all the dependencies required to understand Convolutional Neural Networks. Convolutions are just a type of matrix multiplication with two constraints on the weight matrix: some elements are always zero and some elements are tied or forced to always have the same value.
