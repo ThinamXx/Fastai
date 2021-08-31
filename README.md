@@ -39,3 +39,6 @@ The repository contains a list of the projects which I have worked on while read
 
 [**12. CONVOLUTIONAL NEURAL NETWORK**](https://github.com/ThinamXx/Fastai/tree/main/12.%20Convolutional%20Neural%20Networks)
 - The **CNN** notebook contains all the dependencies required to understand Convolutional Neural Networks. Convolutions are just a type of matrix multiplication with two constraints on the weight matrix: some elements are always zero and some elements are tied or forced to always have the same value.
+
+[**13. RESIDUAL NETWORKS**](https://github.com/ThinamXx/Fastai/tree/main/13.%20ResNets)
+- The **ResNets** notebook contains all the dependencies required to understand the implementation of skip connections which allow deeper models to be trained. ResNet is the pretrained model when using **Transfer Learning**.
