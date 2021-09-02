@@ -42,3 +42,6 @@ The repository contains a list of the projects which I have worked on while read
 
 [**13. RESIDUAL NETWORKS**](https://github.com/ThinamXx/Fastai/tree/main/13.%20ResNets)
 - The **ResNets** notebook contains all the dependencies required to understand the implementation of skip connections which allow deeper models to be trained. ResNet is the pretrained model when using **Transfer Learning**.
+
+[**14. ARCHITECTURE DETAILS**](https://github.com/ThinamXx/Fastai/tree/main/14.%20Architecture%20Details)
+- The **Architecture Details** notebook contains all the dependencies required to create a complete state of art computer vision models. It presents some aspects of natural language processing as well.
