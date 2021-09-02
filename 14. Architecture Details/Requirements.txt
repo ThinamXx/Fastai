@@ -1,1 +1,3 @@
 fastbook
+fastai.vision
+fastai.callback.fp16
