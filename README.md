@@ -45,3 +45,6 @@ The repository contains a list of the projects which I have worked on while read
 
 [**14. ARCHITECTURE DETAILS**](https://github.com/ThinamXx/Fastai/tree/main/14.%20Architecture%20Details)
 - The **Architecture Details** notebook contains all the dependencies required to create a complete state of art computer vision models. It presents some aspects of natural language processing as well.
+
+[**15. TRAINING PROCESS**](https://github.com/ThinamXx/Fastai/tree/main/15.%20Training%20Process)
+- The **Training** notebook contains all the dependencies required to create a training loop and explored variants of Stochastic Gradient Descent.
