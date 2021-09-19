@@ -3,7 +3,7 @@
 The [**Training**](https://github.com/ThinamXx/Fastai/blob/main/15.%20Training%20Process/Training.ipynb) notebook contains all the dependencies required to create a training loop and explored variants of Stochastic Gradient Descent. 
 
 **Note:**
-- [**Training Process**](https://nbviewer.jupyter.org/github/ThinamXx/Fastai/blob/main/15.%20Training%20Process/Training.ipynb)
+- 📑[**Training Process**](https://nbviewer.jupyter.org/github/ThinamXx/Fastai/blob/main/15.%20Training%20Process/Training.ipynb)
 
 **Preparing the Dataset**
 - I have presented the implementation of Preparing Dataset and Baseline Model using Fastai and PyTorch here in the snapshot. 
