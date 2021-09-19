@@ -48,3 +48,6 @@ The repository contains a list of the projects which I have worked on while read
 
 [**15. TRAINING PROCESS**](https://github.com/ThinamXx/Fastai/tree/main/15.%20Training%20Process)
 - The **Training** notebook contains all the dependencies required to create a training loop and explored variants of Stochastic Gradient Descent.
+
+[**16. NEURAL NETWORK FOUNDATIONS**](https://github.com/ThinamXx/Fastai/tree/main/16.%20Neural%20Network%20Foundations)
+- The **Neural Foundations** notebook contains all the dependencies required to understand the foundations of deep learning, begining with matrix multiplication and moving on to implementing the forward and backward passes of a neural net from scratch.
