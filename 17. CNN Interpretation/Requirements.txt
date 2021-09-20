@@ -1,0 +1,2 @@
+fastbook
+fastai.vision.all
