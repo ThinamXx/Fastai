@@ -51,3 +51,6 @@ The repository contains a list of the projects which I have worked on while read
 
 [**16. NEURAL NETWORK FOUNDATIONS**](https://github.com/ThinamXx/Fastai/tree/main/16.%20Neural%20Network%20Foundations)
 - The **Neural Foundations** notebook contains all the dependencies required to understand the foundations of deep learning, begining with matrix multiplication and moving on to implementing the forward and backward passes of a neural net from scratch.
+
+[**17. CNN INTERPRETATION WITH CAM**](https://github.com/ThinamXx/Fastai/tree/main/17.%20CNN%20Interpretation)
+- The **CNN Interpretation** notebook presents the implementation of Class Activation Maps in model interpretation. Class activation maps give insights into why a model predicted a certain result by showing the areas of images that were most responsible for a given prediction.
