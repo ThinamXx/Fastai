@@ -54,3 +54,6 @@ The repository contains a list of the projects which I have worked on while read
 
 [**17. CNN INTERPRETATION WITH CAM**](https://github.com/ThinamXx/Fastai/tree/main/17.%20CNN%20Interpretation)
 - The **CNN Interpretation** notebook presents the implementation of Class Activation Maps in model interpretation. Class activation maps give insights into why a model predicted a certain result by showing the areas of images that were most responsible for a given prediction.
+
+[**18. FASTAI LEARNER FROM SCRATCH**](https://github.com/ThinamXx/Fastai/tree/main/18.%20Fastai%20Learner)
+- The **Fastai Learner** notebook contains all the dependencies to understand the key concepts of Fastai.
