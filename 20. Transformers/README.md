@@ -9,10 +9,10 @@
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20299a.PNG)
 
 **Transformers Tokenizer**  
-Fastai Transform is defined as:
-- an encodes method that is applied when transform is called.
-- a decodes method that is applied when decode method of transform is called.
-- a setups method that sets inner state of Transform.
+-Fastai Transform is defined as:
+  - an encodes method that is applied when transform is called.
+  - a decodes method that is applied when decode method of transform is called.
+  - a setups method that sets inner state of Transform.
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20299b.PNG)
 
