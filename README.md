@@ -59,3 +59,5 @@ The repository contains a list of the projects which I have worked on while read
 - The **Fastai Learner** notebook contains all the dependencies to understand the key concepts of Fastai.
 
 [**19. CHEST X-RAYS CLASSIFICATION**](https://github.com/ThinamXx/Fastai/tree/main/19.%20Chest%20XRays%20Classification)
+
+[**20. TRANSFORMERS MODEL**](https://github.com/ThinamXx/Fastai/tree/main/20.%20Transformers) 
