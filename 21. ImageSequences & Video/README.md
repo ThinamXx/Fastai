@@ -1,1 +1,0 @@
-# **Fastai : Image Sequences & Video**
