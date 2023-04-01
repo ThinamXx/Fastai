@@ -2,6 +2,7 @@
 
 The repository contains a list of the projects which I have worked on while reading the book [**Deep Learning For Coders with Fastai and PyTorch**](https://course.fast.ai/#). 
 
+
 ### **📚NOTEBOOKS:**
 
 [**1. INTRODUCTION**](https://github.com/ThinamXx/Fastai/tree/main/1.%20Introduction)
