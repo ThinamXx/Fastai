@@ -5,7 +5,6 @@ from diffusers import StableDiffusionInpaintPipeline
 from PIL import Image
 from segment_anything import SamPredictor, sam_model_registry
 
-
 device = "cuda"
 checkpoint = "./sam_vit_b_01ec64.pth"
 model_type = "vit_b"
@@ -18,7 +17,6 @@ pipe = StableDiffusionInpaintPipeline.from_pretrained(
      torch_dtype=torch.float16,
 )
 pipe = pipe.to(device)    
-
 
 # gradio
 selected_pixels = []
@@ -56,7 +54,6 @@ with gr.Blocks() as demo:
         mask = mask.resize((512, 512))
         
         output = pipe(prompt=prompt, image=image, mask_image=mask).images[0]
-        
         return output
 
     
